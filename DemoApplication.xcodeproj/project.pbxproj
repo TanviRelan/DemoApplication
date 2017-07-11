@@ -281,7 +281,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.cybage.alm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "6bf30359-0da0-45eb-93bb-1274f7c56e2d";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = CybageALMAppStoreProfile;
 			};
 			name = Debug;
 		};
@@ -297,7 +297,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.cybage.alm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "6bf30359-0da0-45eb-93bb-1274f7c56e2d";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = CybageALMAppStoreProfile;
 			};
 			name = Release;
 		};
