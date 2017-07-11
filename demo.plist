@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   demo.plist
-   DemoApplication
-
-   Created by Admin on 11/07/17.
-   Copyright (c) 2017 Cybage Software Pvt. Ltd. All rights reserved.
--->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-    
-    </dict>
+<dict>
+	<key>teamID</key>
+	<string>VB78Y67GX6</string>
+	<dict>
+		<key>method</key>
+		<string>app-store</string>
+		<key>compileBitcode</key>
+		<false/>
+	</dict>
+</dict>
 </plist>
